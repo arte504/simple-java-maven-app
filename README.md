@@ -1,5 +1,7 @@
 # simple-java-maven-app
 
+[![CI/CD Pipeline for Maven Project](https://github.com/arte504/simple-java-maven-app/actions/workflows/ci-cd.yml/badge.svg)](https://github.com/arte504/simple-java-maven-app/actions/workflows/ci-cd.yml)
+
 This repository is for the
 [Build a Java app with Maven](https://jenkins.io/doc/tutorials/build-a-java-app-with-maven/)
 tutorial in the [Jenkins User Documentation](https://jenkins.io/doc/).
